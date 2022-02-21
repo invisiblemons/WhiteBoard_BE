@@ -1,0 +1,9 @@
+/WhiteBoard.Data/bin
+/WhiteBoard.Business/bin
+/WhiteBoard.API/bin
+/.vs
+/WhiteBoard.API/.vs
+/WhiteBoard.Data/obj
+/WhiteBoard.Business/obj
+/WhiteBoard.API/obj
+/Whiteboard.API/appsettings.json
